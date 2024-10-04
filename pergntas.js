@@ -1,5 +1,29 @@
 criaCartao(
     'Programação',
+    'O que signfica a sigla html?',
+    'hyperText markup language'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
+)
+
+criaCartao(
+    'Programação',
+    'Qual e a funçao de um loop em programaçao?',
+    'Repetir um bloco de codigo varias vezes'
+)
+
+criaCartao(
+    'Ingles',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
+
+criaCartao(
+    'Programação',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
