@@ -19,5 +19,34 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Oi em ingles é HI'
 )
+
+criaCartao(
+    ´Espanhol`
+    ´Como se diz cachorro em espanhol`
+    ´Perro`
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital do Brasil?',
+    'Brasilia'
+)
+
+criaCartao(
+    ´Geografia`
+    ´Em que continente fica o Egito`
+    ´Africa`
+(
+
+    criaCartao(
+        'Lingua inglesa',
+        'Como se diz oi em Inglês?',
+        'Oi em ingles é HI'
+    )
+    
+    criaCartao(
+        ´Espanhol`
+        ´Como se diz cachorro em espanhol`
+        ´Perro`
