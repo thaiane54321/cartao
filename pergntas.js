@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?'
+    'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
@@ -38,23 +38,22 @@ criaCartao(
     'Geografia',
     'Em que continente fica o Egito',
     'Africa'
-(
+)
 
-criarCartao(
+criaCartao(
         'Matemática',
         'Qual a formula de area de um triangulo',
         'A area e base x altura ao quadrado'
     )
 
-criaCartao
+criaCartao(
         'Português',
         'O que e substantivo',
         'A palavra que nomea os seres,objetos,lugares e sentimentos'
 )
 
- criaCartao
+ criaCartao(
         'Biologia',
-        'Qual a unidade basica da vida',
+        'Qual a unidade basica da vida?',
         'Celula'
 )
-    
