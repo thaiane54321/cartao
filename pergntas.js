@@ -55,5 +55,5 @@ criaCartao
  criaCartao
         'Biologia',
         'Qual a unidade basica da vida',
-        'Celula´
+        'Celula`
     
