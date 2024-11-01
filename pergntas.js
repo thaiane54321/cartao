@@ -49,7 +49,7 @@ criarCartao(
 criaCartao
         'Portugues',
         'O que e substantivo',
-        'A palavra que nomea os seres,objetos,lugares e sentimentos´
+        'A palavra que nomea os seres,objetos,lugares e sentimentos`
 )
 
  criaCartao
