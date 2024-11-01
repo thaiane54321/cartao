@@ -40,13 +40,20 @@ criaCartao(
     ´Africa`
 (
 
-    criaCartao(
-        'Lingua inglesa',
-        'Como se diz oi em Inglês?',
-        'Oi em ingles é HI'
+criarCartao(
+        ´Matematica`
+        ´Qual a formula de area de um triangulo`
+        ´A area e base x altura ao quadrado`
     )
+
+criaCartao
+        'Portugues',
+        'O que e substantivo',
+        'A palavra que nomea os seres,objetos,lugares e sentimentos´
+)
+
+ criaCartao
+        'Biologia',
+        'Qual a unidade basica da vida',
+        'Celula´
     
-    criaCartao(
-        ´Espanhol`
-        ´Como se diz cachorro em espanhol`
-        ´Perro`
