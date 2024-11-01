@@ -23,9 +23,9 @@ criaCartao(
 )
 
 criaCartao(
-    ´Espanhol`
-    ´Como se diz cachorro em espanhol`
-    ´Perro`
+    'Espanhol',
+    'Como se diz cachorro em espanhol',
+    'Perro'
 )
 
 criaCartao(
@@ -35,25 +35,26 @@ criaCartao(
 )
 
 criaCartao(
-    ´Geografia`
-    ´Em que continente fica o Egito`
-    ´Africa`
+    'Geografia',
+    'Em que continente fica o Egito',
+    'Africa'
 (
 
 criarCartao(
-        ´Matematica`
-        ´Qual a formula de area de um triangulo`
-        ´A area e base x altura ao quadrado`
+        'Matemática',
+        'Qual a formula de area de um triangulo',
+        'A area e base x altura ao quadrado'
     )
 
 criaCartao
-        'Portugues',
+        'Português',
         'O que e substantivo',
-        'A palavra que nomea os seres,objetos,lugares e sentimentos`
+        'A palavra que nomea os seres,objetos,lugares e sentimentos'
 )
 
  criaCartao
         'Biologia',
         'Qual a unidade basica da vida',
-        'Celula`
+        'Celula'
+)
     
